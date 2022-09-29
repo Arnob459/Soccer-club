@@ -1,0 +1,98 @@
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\bin\Debug\Soccer.exe.config
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\bin\Debug\Soccer.exe
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\bin\Debug\Soccer.pdb
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Login.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.exe
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.pdb
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.AdminHome.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Coach.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Player.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.ForgotPass.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.EditProfile.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Profile.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.ChangePass.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.AddEmployee.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.EmpDetails.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.Staff.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.PlayerDetails.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.PlayerInstruction.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.PlayerPerformance.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.AddPerformance.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.AdminInstruction.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.CoachInstruction.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.ReportingTime.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.WorkoutInstruction.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.WorkoutMonitor.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.PerformanceImprovement.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.WorkSchedule.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.ReportFeedback.resources
+C:\Users\johnr\Desktop\Study\Soccer\Soccer\obj\Debug\Soccer.ManageStaff.resources
+C:\Users\User\Downloads\Soccer\Soccer\bin\Debug\Soccer.exe.config
+C:\Users\User\Downloads\Soccer\Soccer\bin\Debug\Soccer.exe
+C:\Users\User\Downloads\Soccer\Soccer\bin\Debug\Soccer.pdb
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.AddEmployee.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.AddPerformance.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.AdminHome.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.AdminInstruction.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.ChangePass.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Coach.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.CoachInstruction.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.EditProfile.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.EmpDetails.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.ForgotPass.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Login.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.ManageStaff.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.PerformanceImprovement.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Player.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.PlayerDetails.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.PlayerInstruction.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.PlayerPerformance.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Profile.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.ReportFeedback.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.ReportingTime.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.Staff.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.WorkoutInstruction.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.WorkoutMonitor.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.WorkSchedule.resources
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.exe
+C:\Users\User\Downloads\Soccer\Soccer\obj\Debug\Soccer.pdb
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\bin\Debug\Soccer.exe.config
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\bin\Debug\Soccer.exe
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\bin\Debug\Soccer.pdb
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.csprojAssemblyReference.cache
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.AddEmployee.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.AddPerformance.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.AdminHome.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.AdminInstruction.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.ChangePass.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Coach.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.CoachInstruction.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.EditProfile.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.EmpDetails.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.ForgotPass.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Login.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.ManageStaff.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.PerformanceImprovement.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Player.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.PlayerDetails.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.PlayerInstruction.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.PlayerPerformance.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Profile.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Properties.Resources.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.ReportFeedback.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.ReportingTime.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.Staff.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.WorkoutInstruction.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.WorkoutMonitor.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.WorkSchedule.resources
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.csproj.GenerateResource.cache
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.csproj.CoreCompileInputs.cache
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.exe
+E:\study metarials\spring 21\c#finalproject\Soccer\Soccer\obj\Debug\Soccer.pdb

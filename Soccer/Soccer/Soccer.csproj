@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8E174717-7F53-4C81-9E45-5035A2A602FB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Soccer</RootNamespace>
+    <AssemblyName>Soccer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPerformance.Designer.cs">
+      <DependentUpon>AddPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminInstruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminInstruction.Designer.cs">
+      <DependentUpon>AdminInstruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePass.Designer.cs">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoachInstruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoachInstruction.Designer.cs">
+      <DependentUpon>CoachInstruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHome.Designer.cs">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coach.Designer.cs">
+      <DependentUpon>Coach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpDetails.Designer.cs">
+      <DependentUpon>EmpDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPass.Designer.cs">
+      <DependentUpon>ForgotPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditProfile.Designer.cs">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageStaff.Designer.cs">
+      <DependentUpon>ManageStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceImprovement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerformanceImprovement.Designer.cs">
+      <DependentUpon>PerformanceImprovement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Player.Designer.cs">
+      <DependentUpon>Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerDetails.Designer.cs">
+      <DependentUpon>PlayerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerInstruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerInstruction.Designer.cs">
+      <DependentUpon>PlayerInstruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerPerformance.Designer.cs">
+      <DependentUpon>PlayerPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Profile.Designer.cs">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportFeedback.Designer.cs">
+      <DependentUpon>ReportFeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportingTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportingTime.Designer.cs">
+      <DependentUpon>ReportingTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkoutInstruction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkoutInstruction.Designer.cs">
+      <DependentUpon>WorkoutInstruction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkoutMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkoutMonitor.Designer.cs">
+      <DependentUpon>WorkoutMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WorkSchedule.Designer.cs">
+      <DependentUpon>WorkSchedule.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPerformance.resx">
+      <DependentUpon>AddPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHome.resx">
+      <DependentUpon>AdminHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminInstruction.resx">
+      <DependentUpon>AdminInstruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePass.resx">
+      <DependentUpon>ChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coach.resx">
+      <DependentUpon>Coach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoachInstruction.resx">
+      <DependentUpon>CoachInstruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditProfile.resx">
+      <DependentUpon>EditProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpDetails.resx">
+      <DependentUpon>EmpDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPass.resx">
+      <DependentUpon>ForgotPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStaff.resx">
+      <DependentUpon>ManageStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceImprovement.resx">
+      <DependentUpon>PerformanceImprovement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Player.resx">
+      <DependentUpon>Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerDetails.resx">
+      <DependentUpon>PlayerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerInstruction.resx">
+      <DependentUpon>PlayerInstruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerPerformance.resx">
+      <DependentUpon>PlayerPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReportFeedback.resx">
+      <DependentUpon>ReportFeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportingTime.resx">
+      <DependentUpon>ReportingTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkoutInstruction.resx">
+      <DependentUpon>WorkoutInstruction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkoutMonitor.resx">
+      <DependentUpon>WorkoutMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkSchedule.resx">
+      <DependentUpon>WorkSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
